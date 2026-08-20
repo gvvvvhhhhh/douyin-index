@@ -21,7 +21,7 @@
 
 ## 1软件特色介绍
 
-### 1.1刷抖音功能,作品随机播放（完全不知道怎么刷新的ai实现的代码）
+### 1.1刷抖音功能,作品随机播放（完全不知道怎么实现的随机ai写的代码）
 
 <img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/428e59d3-603f-4639-8fd0-bda0c160cc2c" />
 
