@@ -8,12 +8,12 @@
 
 # 软件
 
-### 1.软件界面
+## 1.软件界面
 
 <img width="1402" height="932" alt="image" src="https://github.com/user-attachments/assets/e22d5f61-8eaa-4381-ba38-39cc711f741d" />
 <img width="635" height="360" alt="image" src="https://github.com/user-attachments/assets/e4357265-f551-4bf9-b670-79003b88e415" />
 
-### 2.软件特色介绍
+## 2.软件特色介绍
 
 ### 2.1作者和标签,隐藏标签可以同时选择
 
