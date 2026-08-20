@@ -7,7 +7,7 @@
 # 匹配规则的是使用的<a href="https://github.com/JoeanAmier/TikTokDownloader#douk-downloader">DouK-Downloader</a>下载
 
 ### 1.文件夹名字UIDXXXXX_作者名字_发布作品
-### 2.xlsx名字UIDXXXXX_作者名字_发布作品.xlsx        #因为只写了xlsx匹配详细信息所以需要更改settings.json文件
+### 2.xlsx名字UIDXXXXX_作者名字_发布作品.xlsx   （因为只写了xlsx匹配详细信息所以需要更改settings.json文件）
 ### 3.还匹配了自己账号喜欢和收藏的作品   UIDXXXXX_自己的名字_喜欢作品  UIDXXXXX_自己的名字_收藏作品
 ### 4.因为没有采集过tiktok不清楚是否完全匹配
 
