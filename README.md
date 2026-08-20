@@ -1,10 +1,16 @@
 # 一款管理本地抖音作品的软件,软件完完全全由ai编程
 
 ### 1.使用方法点击导入作品选择文件夹导入
-
 ### 2.支持直接拖入文件夹或者xlsx
-
 ### 3.详细数据需要导入xlsx文件
+
+# 匹配规则的是使用的<a href="https://github.com/JoeanAmier/TikTokDownloader#douk-downloader">DouK-Downloader</a>下载
+
+### 1.文件夹名字UIDXXXXXXXXXX_作者名字_发布作品
+### 2.xlsx名字UIDXXXXXXXXXX_作者名字_发布作品.xlsx        #因为只写了xlsx匹配详细信息所以需要更改settings.json文件
+### 3.还匹配了自己账号喜欢和收藏的作品   UIDXXXXXXXXXX_自己的名字_喜欢作品  UIDXXXXXXXXXX_自己的名字_收藏作品
+### 4.因为没有采集过tiktok不清楚是否完全匹配
+
 
 # 软件界面
 
@@ -35,18 +41,6 @@
 
 <img width="360" height="427" alt="image" src="https://github.com/user-attachments/assets/c16a78db-ad2f-4ef6-a75e-4d2415b63d03" />
 
-
-
-
-# 匹配规则的是使用的<a href="https://github.com/JoeanAmier/TikTokDownloader#douk-downloader">DouK-Downloader</a>下载
-
-1.文件夹名字UIDXXXXXXXXXX_作者名字_发布作品
-
-2.xlsx名字UIDXXXXXXXXXX_作者名字_发布作品.xlsx        #因为只写了xlsx匹配详细信息所以需要更改settings.json文件
-
-3.还匹配了自己账号喜欢和收藏的作品   UIDXXXXXXXXXX_自己的名字_喜欢作品  UIDXXXXXXXXXX_自己的名字_收藏作品
-
-4.因为没有采集过tiktok不清楚是否完全匹配
 
 # 因为只有我自己测试过不知道哪里有一堆bug
 ## 发现bug请提交问题
