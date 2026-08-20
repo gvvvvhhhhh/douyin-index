@@ -1,10 +1,10 @@
 # 一款管理本地抖音作品的软件,软件完完全全由ai编程
 
-## 1.使用方法点击导入作品选择文件夹导入
+### 1.使用方法点击导入作品选择文件夹导入
 
-## 2.支持直接拖入文件夹或者xlsx
+### 2.支持直接拖入文件夹或者xlsx
 
-## 3.详细数据需要导入xlsx文件
+### 3.详细数据需要导入xlsx文件
 
 # 软件界面
 
@@ -15,7 +15,7 @@
 
 ### 1.1刷抖音功能,作品随机播放（完全不知道怎么刷新的ai实现的代码）
 
-<img width="60" height="20" alt="image" src="https://github.com/user-attachments/assets/428e59d3-603f-4639-8fd0-bda0c160cc2c" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/428e59d3-603f-4639-8fd0-bda0c160cc2c" />
 
 
 ### 1.2作者和标签,隐藏标签可以同时选择
