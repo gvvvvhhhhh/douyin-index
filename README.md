@@ -8,26 +8,27 @@
 
 # 软件
 
-# 1.软件界面
+1.软件界面
 
 <img width="1402" height="932" alt="image" src="https://github.com/user-attachments/assets/e22d5f61-8eaa-4381-ba38-39cc711f741d" />
 <img width="635" height="360" alt="image" src="https://github.com/user-attachments/assets/e4357265-f551-4bf9-b670-79003b88e415" />
 
-# 2.软件特色介绍
+2.软件特色介绍
 
-# 2.1作者和标签,隐藏标签可以同时选择
+2.1作者和标签,隐藏标签可以同时选择
 
 <img width="225" height="714" alt="image" src="https://github.com/user-attachments/assets/fa676747-7e94-49b3-a184-b9fb69f902b5" />
-# 2.2可以选择作品类型
+
+2.2可以选择作品类型
 
 <img width="220" height="107" alt="image" src="https://github.com/user-attachments/assets/d650c4d9-f801-4488-8480-32a789be3da2" />
 
-# 2.3浏览功能基本和抖音保持一致,还有额外的收藏和稍后再看
+2.3浏览功能基本和抖音保持一致,还有额外的收藏和稍后再看
 <img width="1372" height="24" alt="image" src="https://github.com/user-attachments/assets/6a2ad170-9e3c-4eb6-bee6-ec66692f84ed" />
 <img width="286" height="106" alt="image" src="https://github.com/user-attachments/assets/651196c5-add1-4f20-8a83-f6ec11079793" />
 <img width="72" height="132" alt="image" src="https://github.com/user-attachments/assets/ed765faf-833b-4cca-83d2-28f85b92776a" />
 
-# 2.4作品详细信息,点击作者名称和作品链接可以直接跳转浏览器
+2.4作品详细信息,点击作者名称和作品链接可以直接跳转浏览器
 <img width="360" height="427" alt="image" src="https://github.com/user-attachments/assets/c16a78db-ad2f-4ef6-a75e-4d2415b63d03" />
 
 
@@ -35,13 +36,13 @@
 
 # 匹配规则的是使用的<a href="https://github.com/JoeanAmier/TikTokDownloader#douk-downloader">DouK-Downloader</a>下载
 
-# 1.文件夹名字UIDXXXXXXXXXX_作者名字_发布作品
+1.文件夹名字UIDXXXXXXXXXX_作者名字_发布作品
 
-# 2.xlsx名字UIDXXXXXXXXXX_作者名字_发布作品.xlsx        #因为只写了xlsx匹配详细信息所以需要更改settings.json文件
+2.xlsx名字UIDXXXXXXXXXX_作者名字_发布作品.xlsx        #因为只写了xlsx匹配详细信息所以需要更改settings.json文件
 
-# 3.还匹配了自己账号喜欢和收藏的作品   UIDXXXXXXXXXX_自己的名字_喜欢作品  UIDXXXXXXXXXX_自己的名字_收藏作品
+3.还匹配了自己账号喜欢和收藏的作品   UIDXXXXXXXXXX_自己的名字_喜欢作品  UIDXXXXXXXXXX_自己的名字_收藏作品
 
-# 4.因为没有采集过tiktok不清楚是否完全匹配
+4.因为没有采集过tiktok不清楚是否完全匹配
 
 # 因为只有我自己测试过不知道哪里有一堆bug
 
