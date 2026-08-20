@@ -15,7 +15,7 @@
 
 ### 1.1刷抖音功能,作品随机播放（完全不知道怎么刷新的ai实现的代码）
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/428e59d3-603f-4639-8fd0-bda0c160cc2c" />
+<img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/428e59d3-603f-4639-8fd0-bda0c160cc2c" />
 
 
 ### 1.2作者和标签,隐藏标签可以同时选择
