@@ -28,8 +28,8 @@
 
 ### 1.4浏览功能基本和抖音保持一致
 
-<img width="300" height="130" alt="image" src="https://github.com/user-attachments/assets/651196c5-add1-4f20-8a83-f6ec11079793" />
-<img width="72" height="130" alt="image" src="https://github.com/user-attachments/assets/ed765faf-833b-4cca-83d2-28f85b92776a" />
+<img width="300" height="340" alt="image" src="https://github.com/user-attachments/assets/cdb768c7-8e22-4bd9-9810-d316153a6781" />
+
 
 ### 1.5作品详细信息,点击作者名称和作品链接可以直接跳转浏览器
 
