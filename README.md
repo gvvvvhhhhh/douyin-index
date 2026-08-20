@@ -4,6 +4,8 @@
 ### 2.支持直接拖入文件夹或者xlsx
 ### 3.详细数据需要导入xlsx文件
 
+### 由于看不懂代码不知道发上来了啥玩意请见谅
+
 # 匹配规则的是使用的<a href="https://github.com/JoeanAmier/TikTokDownloader#douk-downloader">DouK-Downloader</a>下载
 
 ### 1.文件夹名字UIDXXXXX_作者名字_发布作品
