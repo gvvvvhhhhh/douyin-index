@@ -1,7 +1,9 @@
 # 一款管理本地抖音作品的软件
 
+1.使用方法点击导入作品选择文件夹导入
 
+2.直接拖入文件夹
 
-## Recommended IDE Setup
+3.详细数据导入xlsx文件
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+# 匹配规则的是使用的<a href="https://github.com/JoeanAmier/TikTokDownloader#douk-downloader">DouK-Downloader</a>下载
